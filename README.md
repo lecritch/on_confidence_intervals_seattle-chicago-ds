@@ -1,3 +1,3 @@
-# on_confidence_intervals_seattle-ds
+# on_confidence_intervals_seattle-chicago-ds
 
 This repository contains information about the frequentist statistical notion of confidence intervals. It was designed for pedagogical purposes.
